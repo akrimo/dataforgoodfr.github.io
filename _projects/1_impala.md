@@ -53,6 +53,13 @@ members:
     github:
     role: Data Scientist
     image: timothee-thierry.jpg
+    
+  - name: Abdelkrim El guenfoud
+    twitter:
+    linkedin: https://www.linkedin.com/in/abdelkrim-el-guenfoud-6849431b/
+    github:
+    role: Data Scientist
+    image:
 
 organizations:
     - name: Impala
